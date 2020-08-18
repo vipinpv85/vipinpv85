@@ -1,9 +1,10 @@
 ### Hi there 👋
 
- I am create solutions mainly intended for applicationacceleration on x86 for network packet processing, SSL/QUIC proxies, Packet Capture and analysis, Firewall and others. I also have a keen interest in learning and sharing with others as much as possible. You can see the full list in (https://github.com/vipinpv85?tab=repositories).
+ I am create solutions mainly intended for applicationacceleration on x86 for network packet processing, SSL/QUIC proxies, Packet Capture and analysis, Firewall and others. I also have a keen interest in learning and sharing with others as much as possible. You can see the full list in https://github.com/vipinpv85?tab=repositories.
 
-[![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipinpv85&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpv85&layout=compact)](https://github.com/vipinpv85/github-readme-stats)
+ ![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipinpv85&show_icons=true)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpv85&layout=compact)
 
  ## Other Accounts
 - https://www.linkedin.com/in/vipin-varghese-8131b4b/
