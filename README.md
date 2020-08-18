@@ -2,9 +2,7 @@
 
  I am create solutions for application acceleration on x86 for network packet processing, TCP/SSL/QUIC proxies, Packet Capture and analysis, Firewall and others. I also have a keen interest in learning and sharing with others as much as possible. You can see the full list in https://github.com/vipinpv85?tab=repositories.
 
- ![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipinpv85&show_icons=true)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpv85&layout=compact)
+ ![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipinpv85&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vipinpv85&layout=compact)
 
  ## Other Accounts
 - https://www.linkedin.com/in/vipin-varghese-8131b4b/
@@ -20,5 +18,3 @@
 - 📫 How to reach me: ... Skype, Google hangout
 - 😄 Pronouns: ... Him & His
 - ⚡ Fun fact: ... soft spot for PS3 gaming, I like to learn Vulkan & unity or game development.
-
-note: inspired from https://github.com/anuraghazra/github-readme-stats
