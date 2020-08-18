@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**vipinpv85/vipinpv85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am create solutions mainly intended for acceleration of network packet processing by design, develop, performance profilie and tunie mostly on x86. I have keen interest in learning and sharing with others as much as possible too. 
+ 
+[![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipinpv85&show_icons=true&theme=tokyonight)
+ 
+ ## Other Accounts
+- https://www.linkedin.com/in/vipin-varghese-8131b4b/
+- https://stackoverflow.com/users/story/7665972
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🔭 I’m currently working on ... Unified eBPF hooks in DPDK userspace , DPDK-Suricata, x86 SIMD
+- 🌱 I’m currently learning ... Yocto, SIMD, libc-less binaries, Deep learning with C
+- 👯 I’m looking to collaborate on ... Projects on DPDK, eBPF, Firewall, SSL Proxy
+- 🤔 I’m looking for help with ... profiling, benchmark for PR into Suricata for DPDK acquistion layer
+- 💬 Ask me about ... DPDK, eBPF, Profiling,
+- 📫 How to reach me: ... Skype, Google hangout
+- 😄 Pronouns: ... Him & His
+- ⚡ Fun fact: ... soft spot for PS3 gaming, I like to learn Vulkan & unity or game development.
