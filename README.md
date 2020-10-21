@@ -6,7 +6,7 @@
 
  ## Other Accounts
 - https://www.linkedin.com/in/vipin-varghese-8131b4b/
-- https://stackoverflow.com/users/story/7665972
+- https://stackoverflow.com/users/7665972/vipin-varghese
 
 
 ## About Me
